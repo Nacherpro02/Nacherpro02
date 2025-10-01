@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nacherpro02
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript with Node JS and React JS, Python, MySql and Web Development tools
+- 🌱 I’m currently learning Java, JavaScript with Node JS and React JS, Python, MySql and Web Development tools
 - 📫 How to reach me: nacheruddin22@gmail.com
 - 😄 Pronouns: Helicopter
 - 📍 From: Málaga, Spain 🇪🇸
